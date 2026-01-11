@@ -103,4 +103,4 @@ The fine-tuned GPT-2 model successfully generates coherent and contextually rele
 
 Author
 
-Sneha S. Pawar
+Sneha S. Pawar# PRODIGY_GA_02
