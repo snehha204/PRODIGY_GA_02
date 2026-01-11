@@ -52,7 +52,7 @@ st.markdown(
 @st.cache_resource
 def load_model():
     tokenizer = GPT2Tokenizer.from_pretrained("gpt2")
-    model = GPT2LMHeadModel.from_pretrained("./model")
+    model = GPT2LMHeadModel.from_pretrained("gpt2")
     model.eval()
     return tokenizer, model
 
